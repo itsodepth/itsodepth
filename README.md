@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Mahasiswa<br>🎁 JavaScript
+👨‍🎓 Mahasiswa<br>📝 Seorang mahasiswa yang masih belajar JavaScript beserta frameworknya<br><br>Maaf masih pemula
 
 
 ## 🌐 Socials:
